@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1038823841395",
+    "firebase_url": "https://teliga-be21e.firebaseio.com",
+    "project_id": "teliga-be21e",
+    "storage_bucket": "teliga-be21e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038823841395:android:2d84e11d1d34543f",
+        "android_client_info": {
+          "package_name": "litapps.teliga_bot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038823841395-v4lg0vftfd3b4p2rj81g827jo30km79o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "litapps.teliga_bot",
+            "certificate_hash": "2e4a374d8ed1dcbf7aa336eaf59fc29cd21f570f"
+          }
+        },
+        {
+          "client_id": "1038823841395-rnvehm8lvuut5erpi52jui68to03p6rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiT3Mkp5CflyMj7Fr02pBbzgRR8-oJSWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038823841395-rnvehm8lvuut5erpi52jui68to03p6rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
